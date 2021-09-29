@@ -135,6 +135,6 @@ Pod::Spec.new do |spec|
 
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   spec.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7 arm64' }
-  #spec.dependency "ijkplayer","~>1.1.3"
+  spec.dependency "ijkplayer","~>1.1.3"
 
 end
