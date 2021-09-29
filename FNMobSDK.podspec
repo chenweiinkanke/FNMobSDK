@@ -24,8 +24,7 @@ Pod::Spec.new do |spec|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  spec.description  = "this is FNMobAdSDK"
-                   
+  spec.description  = "This is FNMobAdSDK."
 
   spec.homepage     = "https://github.com/TomandWinnie/FNMobSDK"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
@@ -63,8 +62,8 @@ Pod::Spec.new do |spec|
   #  the deployment target. You can optionally include the target after the platform.
   #
 
-  #  spec.platform     = :ios
-  spec.platform     = :ios, "9.0"
+  # spec.platform     = :ios
+  # spec.platform     = :ios, "9.0"
 
   #  When using multiple platforms
   spec.ios.deployment_target = "9.0"
@@ -79,7 +78,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/TomandWinnie/FNMobSDK.git", :tag => spec.version }
+  spec.source       = { :git => "https://github.com/TomandWinnie/FNMobSDK.git", :tag =>  spec.version  }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -117,10 +116,10 @@ Pod::Spec.new do |spec|
   #
 
   # spec.framework  = "SomeFramework"
-  spec.frameworks = "MessageUI", "AudioToolbox","AVFoundation","CoreGraphics","CoreMedia","CoreVideo","MediaPlayer","MobileCoreServices","OpenGLES","QuartzCore","UIKit","VideoToolbox"
+  # spec.frameworks = "MessageUI", "AudioToolbox","AVFoundation","CoreGraphics","CoreMedia","CoreVideo","MediaPlayer","MobileCoreServices","OpenGLES","QuartzCore","UIKit","VideoToolbox"
 
   # spec.library   = "iconv"
-  spec.libraries = "c++", "z2","z"
+  # spec.libraries = "c++", "z2","z"
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -130,7 +129,6 @@ Pod::Spec.new do |spec|
   #  you can include multiple dependencies to ensure it works.
 
   spec.requires_arc = true
-
   spec.vendored_frameworks  = 'FNMobiSDK.framework'
 
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
