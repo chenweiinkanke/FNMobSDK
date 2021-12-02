@@ -19,7 +19,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (instancetype)initWithPlacementId:(NSString *)appId ads:(NSString *)adsId;
 
 /// 加载
-- (void)loadFNRewarfd;
+- (void)loadFNReward;
 
 /// 显示
 /// @param rootViewController 用于显示激励视屏

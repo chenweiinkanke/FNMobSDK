@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "FNMobSDK"
-  spec.version      = "5.0.5"
+  spec.version      = "5.3.1"
   spec.summary      = "FNMob Media Advertising."
 
   # This description is used to generate tags and improve search results.
@@ -116,10 +116,10 @@ Pod::Spec.new do |spec|
   #
 
   # spec.framework  = "SomeFramework"
-  # spec.frameworks = "MessageUI", "AudioToolbox","AVFoundation","CoreGraphics","CoreMedia","CoreVideo","MediaPlayer","MobileCoreServices","OpenGLES","QuartzCore","UIKit","VideoToolbox"
+  spec.frameworks = "MessageUI", "AudioToolbox","AVFoundation","CoreGraphics","CoreMedia","CoreVideo","MediaPlayer","MobileCoreServices","OpenGLES","QuartzCore","UIKit","VideoToolbox","CoreTelephony"
 
   # spec.library   = "iconv"
-  # spec.libraries = "c++", "z2","z"
+  spec.libraries = "c++", "z2","z"
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
