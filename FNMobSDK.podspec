@@ -119,7 +119,7 @@ Pod::Spec.new do |spec|
   spec.frameworks = "MessageUI", "AudioToolbox","AVFoundation","CoreGraphics","CoreMedia","CoreVideo","MediaPlayer","MobileCoreServices","OpenGLES","QuartzCore","UIKit","VideoToolbox","CoreTelephony"
 
   # spec.library   = "iconv"
-  spec.libraries = "c++", "z2","z"
+  spec.libraries = "c++","z"
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
