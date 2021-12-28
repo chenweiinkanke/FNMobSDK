@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "FNMobiFeedAd.h"
+#import <FNMobiFeedAd.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

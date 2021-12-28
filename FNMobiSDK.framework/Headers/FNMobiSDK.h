@@ -30,5 +30,10 @@ FOUNDATION_EXPORT const unsigned char FNMobiSDKVersionString[];
 #import <FNMobiSDK/FNMobiFeedAd.h>
 #import <FNMobiSDK/FNMobiFeedAdManagerDelegate.h>
 
+// interstitial
+#import <FNMobiSDK/FNMobiInterstitialAdDelegate.h>
+#import <FNMobiSDK/FNMobiIntersititialAd.h>
+
+
 
 

@@ -33,6 +33,9 @@ NS_ASSUME_NONNULL_BEGIN
 /// 开屏广告展示完成并自动关闭
 - (void)fnSplashAdDidAutoDismiss;
 
+///// 开屏广告将要关闭回调
+//- (void)fnSplashAdWillClosed;
+
 /// 开屏广告关闭回调
 - (void)fnSplashAdClosed;
 

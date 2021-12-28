@@ -18,11 +18,19 @@
 		</data>
 		<key>Headers/FNMobiFeedAdManagerDelegate.h</key>
 		<data>
-		rFsjdaBEp5lme4G3t3k5hPbSiUQ=
+		o1GFN+vWI/AQBmsmmg5xBlMcvW4=
+		</data>
+		<key>Headers/FNMobiIntersititialAd.h</key>
+		<data>
+		8JpTX8SfRQwL809IOg9uxuKlCq0=
+		</data>
+		<key>Headers/FNMobiInterstitialAdDelegate.h</key>
+		<data>
+		moTlBDiGbijE0qpW4mTzPpTuB2Q=
 		</data>
 		<key>Headers/FNMobiSDK.h</key>
 		<data>
-		3+tJiews/ACSnKSufzKu4d7mpcA=
+		F1yZUCVMGrx1Sw22y8bK033CQNc=
 		</data>
 		<key>Headers/FNMobiSplashAd.h</key>
 		<data>
@@ -30,7 +38,7 @@
 		</data>
 		<key>Headers/FNMobiSplashAdDelegate.h</key>
 		<data>
-		dkAyTeNxaXHrArDXbaCStIvBE/4=
+		BvP7FL0lbxRcIzYO9a5MmNBb8Io=
 		</data>
 		<key>Headers/FNRewardVideoAd.h</key>
 		<data>
@@ -92,22 +100,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rFsjdaBEp5lme4G3t3k5hPbSiUQ=
+			o1GFN+vWI/AQBmsmmg5xBlMcvW4=
 			</data>
 			<key>hash2</key>
 			<data>
-			pJ41SVUL9qBUGMBf9zjEV5QSJ6tu8/KhRDdVkoBDQPc=
+			MOp/5NSP4sCwvp6CjGaNyyf0HdIm40q4r897FvDiUhY=
+			</data>
+		</dict>
+		<key>Headers/FNMobiIntersititialAd.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8JpTX8SfRQwL809IOg9uxuKlCq0=
+			</data>
+			<key>hash2</key>
+			<data>
+			X8bI7sH9wyAh3CA7egBQ0y34c0bkpv3JwNQnL5FHGqE=
+			</data>
+		</dict>
+		<key>Headers/FNMobiInterstitialAdDelegate.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			moTlBDiGbijE0qpW4mTzPpTuB2Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			TA7QllH3OPKjVRl2owjUt2MIOTxJNKLSMCSabmYYoOw=
 			</data>
 		</dict>
 		<key>Headers/FNMobiSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3+tJiews/ACSnKSufzKu4d7mpcA=
+			F1yZUCVMGrx1Sw22y8bK033CQNc=
 			</data>
 			<key>hash2</key>
 			<data>
-			nqU/XT42QCq7yOkqKbLTgTLeDf2belqWItAZju+BoPo=
+			F/Lre6L3Vvfjmh+RJDehHiRQ/FhKOA1bWf2Nf8r6t7c=
 			</data>
 		</dict>
 		<key>Headers/FNMobiSplashAd.h</key>
@@ -125,11 +155,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dkAyTeNxaXHrArDXbaCStIvBE/4=
+			BvP7FL0lbxRcIzYO9a5MmNBb8Io=
 			</data>
 			<key>hash2</key>
 			<data>
-			d0GJ53F3/g/1VTjgaR171gdaiJic2a4TO1X9mFc0Uhw=
+			DJhZtm44xOTHS3EroXbJoYXIj1wbBX9Qg4YSEDC8ts4=
 			</data>
 		</dict>
 		<key>Headers/FNRewardVideoAd.h</key>
