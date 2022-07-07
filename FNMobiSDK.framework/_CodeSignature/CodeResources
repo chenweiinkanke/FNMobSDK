@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>FNMobiSDK.md</key>
+		<data>
+		IGDvzDwR/48KBYy1jRIUYQSFXD8=
+		</data>
 		<key>Headers/FNManager.h</key>
 		<data>
-		61C0ktKibwcW16A6+pd8kiQiXkc=
+		/I5xOv+2qTSlhByO7L2KaX3UHuQ=
 		</data>
 		<key>Headers/FNMobiFeedAd.h</key>
 		<data>
@@ -18,7 +22,7 @@
 		</data>
 		<key>Headers/FNMobiFeedAdManagerDelegate.h</key>
 		<data>
-		o1GFN+vWI/AQBmsmmg5xBlMcvW4=
+		rFsjdaBEp5lme4G3t3k5hPbSiUQ=
 		</data>
 		<key>Headers/FNMobiIntersititialAd.h</key>
 		<data>
@@ -30,7 +34,7 @@
 		</data>
 		<key>Headers/FNMobiSDK.h</key>
 		<data>
-		F1yZUCVMGrx1Sw22y8bK033CQNc=
+		tS85qMn7+7/PQlvmwhbGvcQelMk=
 		</data>
 		<key>Headers/FNMobiSplashAd.h</key>
 		<data>
@@ -54,7 +58,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		x/prroIeISaKiagUc6snnZ3QVF4=
+		IWmQmIHfNKq0FlytQu6mByPtz+g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -63,15 +67,26 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>FNMobiSDK.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IGDvzDwR/48KBYy1jRIUYQSFXD8=
+			</data>
+			<key>hash2</key>
+			<data>
+			aTFN7wOWOmu+d74sdEkbIqOLTwz96g+VszymdFCjQLw=
+			</data>
+		</dict>
 		<key>Headers/FNManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			61C0ktKibwcW16A6+pd8kiQiXkc=
+			/I5xOv+2qTSlhByO7L2KaX3UHuQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			j+f2E2C/S5HsmUL8PCqgPBAbcVRh7jAuW+Y5mTzO0Us=
+			AAd03o4qJpoRSmHoGeEFVrL37mKA9zZHv3AtH5uk6BE=
 			</data>
 		</dict>
 		<key>Headers/FNMobiFeedAd.h</key>
@@ -100,11 +115,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o1GFN+vWI/AQBmsmmg5xBlMcvW4=
+			rFsjdaBEp5lme4G3t3k5hPbSiUQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			MOp/5NSP4sCwvp6CjGaNyyf0HdIm40q4r897FvDiUhY=
+			pJ41SVUL9qBUGMBf9zjEV5QSJ6tu8/KhRDdVkoBDQPc=
 			</data>
 		</dict>
 		<key>Headers/FNMobiIntersititialAd.h</key>
@@ -133,11 +148,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			F1yZUCVMGrx1Sw22y8bK033CQNc=
+			tS85qMn7+7/PQlvmwhbGvcQelMk=
 			</data>
 			<key>hash2</key>
 			<data>
-			F/Lre6L3Vvfjmh+RJDehHiRQ/FhKOA1bWf2Nf8r6t7c=
+			aBmupc3RqGPyxKL9u//USCXLqxKi2vyYZubC9iviS9U=
 			</data>
 		</dict>
 		<key>Headers/FNMobiSplashAd.h</key>
